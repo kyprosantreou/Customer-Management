@@ -18,13 +18,13 @@ This is a simple Customer Management System built using Python and the flet libr
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/customer-management.git
+    git clone https://github.com/kyprosantreou/customer-management.git
     ```
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Configure MySQL database connection details in the main function of `app.py`.
+3. Configure MySQL database connection details in the main function of `main.py`.
 
 ## Usage
 1. Run the application:
