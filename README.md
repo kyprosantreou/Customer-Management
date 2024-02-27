@@ -35,7 +35,5 @@ This is a simple Customer Management System built using Python and the flet libr
 
 ## Screenshots
 Include screenshots of your application's interface here to give users a visual overview of how it looks and works.
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](screenshots/4.png)
+![Screenshot 1](screenshots/1.png) ![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/4.png) ![Screenshot 4](screenshots/3.png)
