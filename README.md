@@ -34,6 +34,5 @@ This is a simple Customer Management System built using Python and the flet libr
 2. Use the graphical interface to perform various tasks such as registering new customers, managing existing customer data, and exporting statements.
 
 ## Screenshots
-Include screenshots of your application's interface here to give users a visual overview of how it looks and works.
 ![Screenshot 1](screenshots/1.png) ![Screenshot 2](screenshots/2.png)
 ![Screenshot 3](screenshots/4.png) ![Screenshot 4](screenshots/3.png)
