@@ -39,4 +39,4 @@ This is a simple Customer Management System built using Python and the flet libr
 
 ## Author
 
-Created by [Kypros Andreou].
+Created by Kypros Andreou.
