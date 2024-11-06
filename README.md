@@ -12,7 +12,7 @@ This is a simple Customer Management System built using Python and the flet libr
 - Python 3.x
 - flet library
 - pandas
-- mysql.connector
+- mysql-connector-python
 - openpyxl
 
 ## Setup
